@@ -1,0 +1,11 @@
+{
+    "version":  "0.2.1",
+    "file":  "downloads/jarvis-mobile-0.2.1.apk",
+    "size_mb":  16.6,
+    "sha256":  "690d2594560eebb4d76f62f21ff9e2b602d659808e3a8e67915f44f18fdfaef5",
+    "file_32":  "downloads/jarvis-mobile-0.2.1-32bits.apk",
+    "size_32_mb":  14.3,
+    "sha256_32":  "887a1d95704b72bfde0808e174265b62493ecf890a5a7373c728affb6155055a",
+    "server":  "https://formats-letter-validity-poem.trycloudflare.com",
+    "date":  "2026-11-17"
+}
