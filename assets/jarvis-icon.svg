@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="JARVIS Mobile">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#13324f"/>
+      <stop offset="1" stop-color="#060b14"/>
+    </radialGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7ff0ff"/>
+      <stop offset="1" stop-color="#1aa7d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <!-- onda de voz (identidad propia: asistente que escucha) -->
+  <g fill="none" stroke="url(#c)" stroke-linecap="round">
+    <path d="M92 236v40M420 236v40" stroke-width="18" opacity=".5"/>
+    <path d="M132 206v100M380 206v100" stroke-width="18" opacity=".8"/>
+  </g>
+  <!-- letra J -->
+  <path d="M262 150h48v136c0 46-30 78-76 78-30 0-54-14-66-38l40-22c6 11 14 16 26 16 18 0 28-12 28-34z" fill="url(#c)"/>
+</svg>
